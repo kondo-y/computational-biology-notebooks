@@ -5,4 +5,4 @@
 ## Folder Structure
 
 - `jupyter-notebooks/`: For local PC (Jupyter Lab)
-- `colab-notebooks/`: For Colab (GPU compuation, etc.)
+- `colab-notebooks/`: For Colab (GPU computation, Jax, etc.)
