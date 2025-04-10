@@ -1,6 +1,6 @@
 # Computational Biology Notebooks
 
-このリポジトリは、計算生物学のチュートリアル教材をまとめたものです。
+This repository contains a collection of tutorial materials for computational biology. The content focuses on dynamical systems modeling at a cellular level, numerical simulations, and inverse problems.
 
 ## Folder Structure
 
