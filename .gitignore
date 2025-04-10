@@ -1,5 +1,19 @@
-# .gitignore
-.ipynb_checkpoints/
+# Python
 __pycache__/
 *.pyc
+
+# venv
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Editor
+.vscode/
+
+# Misc
 .DS_Store
+Thumbs.db
